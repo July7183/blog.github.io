@@ -1,9 +1,9 @@
-# Blog
+# https://inkss.cf
 
-My File Web：https://inkss.cn
+* Office 365 有一个域功能，允许用户使用自由域名设置账户信息。
+* Freenom 提供免费域名的申请功能，但是需要通过域名能够打开一个网页，否则域名就会被收回。
+* 本域名并未备案，因为域的原因使用了微软 DNS 解析，不确保中国境内能够打开网页。
 
-&  This Web: https://inkss.github.io/blog/
+> 更多信息参阅：https://inkss.cn/2018/09/29/free-office-365/
 
-wow ~
-
-![](pic/cat.png)
+![1538491996529](assets/1538491996529.png)
